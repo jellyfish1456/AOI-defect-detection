@@ -28,6 +28,8 @@ Automated Optical Inspection(AOI) is a critical technique which is used in the m
 
 # Honor
 
+In private score gets 0.9942500 accuracy.
+
 # Notice
 
 In order not to violate the rules of the competition, the code provided here is just the example of the code. Not the exact code which is uploaded in th competition. You can change the network structure on your own.
