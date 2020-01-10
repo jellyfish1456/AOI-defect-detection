@@ -6,6 +6,7 @@ Automated Optical Inspection(AOI) is a critical technique which is used in the m
 
   * [Environment](#Environment)
   * [Method](#Method)
+  * [Honor](#Honor)
   * [Notice](#Notice)
   * [Reference](#Reference)
   
@@ -24,6 +25,8 @@ Automated Optical Inspection(AOI) is a critical technique which is used in the m
       * Test_image
       
   3. Run the py file.
+
+# Honor
 
 # Notice
 
