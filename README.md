@@ -24,3 +24,7 @@ Automated Optical Inspection(AOI) is a critical technique which is used in the m
   3. Run the py
   
 # Reference
+
+https://keras.io/applications/
+
+https://keras.io/applications/#densenet
