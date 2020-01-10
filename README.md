@@ -10,3 +10,4 @@ Automated Optical Inspection(AOI) is a critical technique which is used in the m
 
 # Method
   1. Here we use the data from  [Aidea](https://aidea-web.tw/topic/a49e3f76-69c9-4a4a-bcfc-c882840b3f27) to classify the defect.
+  2. Create a folder. Inside the floder create > Train
