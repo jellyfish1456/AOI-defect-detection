@@ -18,7 +18,7 @@ Automated Optical Inspection(AOI) is a critical technique which is used in the m
    * Tensorflow: 1.14.0
    
 # Method
-  1. Here we use the data from  [Aidea](https://aidea-web.tw/topic/a49e3f76-69c9-4a4a-bcfc-c882840b3f27) to classify the defect. Unzip the file.
+  1. Here we use the data from Industrial Technology Research Institute - [Aidea](https://aidea-web.tw/topic/a49e3f76-69c9-4a4a-bcfc-c882840b3f27) to classify the defect. Unzip the file.
   
   2. Create a folder. Put the file inside the floder. And create
       * Train_image
