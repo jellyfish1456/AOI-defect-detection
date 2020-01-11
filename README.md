@@ -26,9 +26,10 @@ Automated Optical Inspection(AOI) is a critical technique which is used in the m
       * test_images.zip：10142 images.
       * train.csv：two columns, ID and Label respectively.
       * test.csv：two columns, ID and Label respectively.
-  * ID is for the name of the png file. Label is for the class（0: normal, 1: void, 2: horizontal defect, 3: vertical defect, 4: edge   defect, 5: particle）
+      * ID is for the name of the png file. Label is for the class（0: normal, 1: void, 2: horizontal defect, 3: vertical defect, 4: edge   defect, 5: particle）
   
   2. Create a folder. Put the file inside the floder. And create
+  
       * Train_image
       * Test_image
       
