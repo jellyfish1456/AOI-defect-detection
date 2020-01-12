@@ -2,7 +2,7 @@
 
 Automated Optical Inspection(AOI) is a critical technique which is used in the manufacture and test of electronics printed circuit boards, PCBs and so on. AOI defect detection allows us to inspect is there any defects on electronics assemblies or in particular PCBs fastly and accurately. It is the method to ensure that the quality of product can be built correctly and without manufacturing faults.
 
-I use VGG16 and Densenet121 model to train the network.
+In the training process, I use data augmentation in order to apply more data, then I use VGG16, Densenet121 and so on model to train the network. In comparison with multiple pre-trained model, the result shows that Densenet performs the best among all.
 
 
 # Content
@@ -35,6 +35,8 @@ I use VGG16 and Densenet121 model to train the network.
       * Test_image
       
   3. Run the py file.
+
+
 
 # Honor
 
