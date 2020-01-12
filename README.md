@@ -38,7 +38,7 @@ I use VGG16 and Densenet121 model to train the network.
 
 # Honor
 
-In private score gets  99.42500 % accuracy.
+In private score gets  99.42500 % in accuracy.
 
 # Notice
 
